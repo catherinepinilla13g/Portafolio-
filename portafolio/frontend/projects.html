@@ -1,18 +1,30 @@
+<!-- 
+  Página de proyectos:
+  - Muestra 4 proyectos académicos
+  - Cada proyecto tiene:
+    * Imagen
+    * Descripción
+    * Características
+    * Tecnologías usadas
+  - Diseño de tarjetas con efecto hover
+-->
 <!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="UTF-8">
     <title>Mis Proyectos | Catherine Pinilla</title>
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   </head>
   <body>
     <header class="navbar">
-      <a href="index.html" class="logo">To<span>.</span></a>
+      <a href="index.html" class="logo">CP<span>.</span></a>
       <nav id="nav-menu">
         <a href="about.html">Sobre mí</a>
         <a href="projects.html">Proyectos</a>
         <a href="certifications.html">Certificaciones</a>
-        <a href="blog.html">Blog</a>
         <a href="index.html#contacto">Contacto</a>
         <button id="dark-toggle" aria-label="Alternar modo oscuro">🌓</button>
       </nav>
@@ -93,9 +105,21 @@
         </div>
       </article>
     </main>
-    <footer>
-      © 2025 Catherine P. Todos los derechos reservados.
+    <footer class="footer">
+        © 2025 Catherine Pinilla. Todos los derechos reservados.
+        
+        <!-- Enlaces a redes sociales -->
+        <div class="social-links">
+            <a href="https://github.com/catherinepinilla13g" target="_blank" class="social-link" aria-label="GitHub">
+                <i class="fab fa-github"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/catherine-elizabeth-pinilla-galleguillos-6082b2138/" target="_blank" class="social-link" aria-label="LinkedIn">
+                <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="catherinepinilla900@gmail.com" class="social-link" aria-label="Email">
+                <i class="fas fa-envelope"></i>
+            </a>
+        </div>
     </footer>
-    <script src="assets/js/main.js" defer></script>
   </body>
 </html>
