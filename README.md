@@ -17,7 +17,7 @@ Estudiante de Analista Programador con experiencia en:
 
 ## 🌱 En Aprendizaje
 
-[![Habilidades en desarrollo](https://skillicons.dev/icons?i=cs,dotnet,sqlite,python,java,html,css,sql)](https://skillicons.dev)
+[![Habilidades en desarrollo](https://skillicons.dev/icons?i=cs,dotnet,sqlite,python,java,html,css,mysql)](https://skillicons.dev)
 
 ## 📫 Contacto
 
