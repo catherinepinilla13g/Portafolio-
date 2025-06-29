@@ -1,3 +1,9 @@
+// Manejo del formulario de contacto:
+// - Validación básica de campos
+// - Prevención de envío por defecto
+// - Integración con Telegram (requiere token)
+// - Feedback al usuario (alertas)
+
 document.addEventListener('DOMContentLoaded', function() {
   const form = document.getElementById('contact-form');
   
