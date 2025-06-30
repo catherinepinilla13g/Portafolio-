@@ -14,6 +14,7 @@ Estudiante de Analista Programador con experiencia en:
 1. **SMODA** - Sistema de tienda con Windows Forms
 2. **ParkTech** - Web app con ASP.NET MVC
 3. **Café Fantasía** - App móvil con Xamarin Forms
+4. **Verde Vital** - Proyecto realizado con Node
 
 ## 🌱 En Aprendizaje
 
